@@ -1,0 +1,13 @@
+name: HungerStealPlugin
+main: com.voxy.hungersteal.HungerSteal
+version: 1.4.1
+api-version: 1.19
+commands:
+  hunger:
+    description: hunger command
+    usage: "Usage: /hunger [withdraw|give|help]"
+    permission-message: You do not have permission to use this command.
+    permission: hunger.command
+    website: www.spigotmc.org
+    authors: [Voxy, Frw0g]
+
